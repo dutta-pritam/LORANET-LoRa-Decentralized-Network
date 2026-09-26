@@ -13,20 +13,20 @@ The firmware provides mesh networking, dynamic route discovery, encrypted commun
 
 ## Features
 
-* 📡 **LoRa communication** using SX1278
-* 🔗 **Decentralized mesh networking**
-* 🛣️ Dynamic route discovery using RREQ/RREP
-* 🔐 AES-256-GCM authenticated encryption
-* 🔑 Curve25519-based session key establishment
-* 🛡️ Anti-replay protection using a sliding window
-* ✅ Message acknowledgements
-* 🔄 Automatic retransmission with exponential backoff
-* 💾 Persistent transmission queue using EEPROM
-* 📶 Neighbor discovery and monitoring
-* 🚨 Route error detection and propagation
-* 📱 Bluetooth application interface
-* 🖥️ Serial interface for debugging and control
-* 📢 Encrypted broadcast messaging
+*  **LoRa communication** using SX1278
+*  **Decentralized mesh networking**
+*  Dynamic route discovery using RREQ/RREP
+*  AES-256-GCM authenticated encryption
+*  Curve25519-based session key establishment
+*  Anti-replay protection using a sliding window
+*  Message acknowledgements
+*  Automatic retransmission with exponential backoff
+*  Persistent transmission queue using EEPROM
+*  Neighbor discovery and monitoring
+*  Route error detection and propagation
+*  Bluetooth application interface
+*  Serial interface for debugging and control
+*  Encrypted broadcast messaging
 
 ---
 
